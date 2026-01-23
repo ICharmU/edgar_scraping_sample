@@ -1,3 +1,3 @@
 # Code Sample
 
-Code sample for scripts producing data on [submartingales.com/](my web app).
+Code sample for scripts producing data on [submartingales.com/](url).
