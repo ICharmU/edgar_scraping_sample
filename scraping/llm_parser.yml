@@ -1,0 +1,16 @@
+name: llm_parser
+channels:
+  - conda-forge
+dependencies:
+  - ipython=9.5.0
+  - nbformat=5.10.4
+  - jupyterlab=4.4.7
+  - python=3.12
+  - pytorch=2.10.0
+  - ollama=0.15.4
+  - pydantic
+  - pandas
+  - beautifulsoup4=4.13.3
+  - pip=25.3
+  - pip:
+    - ollama

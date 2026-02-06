@@ -1,2 +1,6 @@
 *.env
 *.csv
+**/__pycache__/
+*.pyc
+*.sql
+cik_mappings.json
